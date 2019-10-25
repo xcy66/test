@@ -5,6 +5,7 @@
   </component>
   <component name="ProjectId" id="1Sg33WNrAclcgpXF4tM8OcInBwp" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
 </project>
